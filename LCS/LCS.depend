@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1530453299 source:c:\users\izaa1\desktop\programowanie\lcs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.h"
+
+1530453285 c:\users\izaa1\desktop\programowanie\lcs\func.h
+
